@@ -22,6 +22,7 @@ background-color-changer/
 ### manifest.json ファイルの書き方
 
 Chrome 拡張機能は manifest.json で指定されたファイルのみを読み込む。
+
 **設定（ざっくりと）**
 
 - manifest_version：マニュフェストのバージョン
